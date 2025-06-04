@@ -5,7 +5,7 @@
     <main>
         <section class="row" aria-labelledby="aspnetTitle">
             <h1 id="aspnetTitle">TechEd</h1>
-            <h2>- By Sindhu Rallabhandi</h2>
+            <h2>- By Sindhu Vadapalli</h2>
             <p class="lead">TechEd is an educational web app to expose middle school students to technology and spark interest in the field.</p>
             <p class="lead"> Users have access to the top headlines about technology to increase knowledge and be up to date with information. 
                 Further, users can go to the "fun zone" where they can experiment and use services provided.
